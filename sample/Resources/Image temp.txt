@@ -1,0 +1,12 @@
+1.9 pix/inch
+130*130
+
+BG Color n Frame:
+1. Resize to 130*130
+2. New Fill Layer
+3. Choose Color
+4. Drag to 2nd place
+5. Layer - Flatten Image
+6. New Layer from BG
+7. Canvas Size to 1.9*1.9
+8. Fill Layer
